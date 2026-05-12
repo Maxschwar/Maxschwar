@@ -12,7 +12,7 @@ I'm a student and developer passionate about building digital products from the 
 **💻 Tech Stack:**
 - **Core Languages:** Java, Python
 - **Exploring/Building:** Go, C, Lua
-- **Web & UI:** JavaScript, HTML, CSS
+- **Web & UI:** JavaScript, HTML, CSS, Drupal
 
 **🛠️ Featured Projects:**
 - 🤖 [**AI-Agent**](https://github.com/Maxschwar/AI-Agent) - Exploring AI capabilities and Google AI Studio API.
